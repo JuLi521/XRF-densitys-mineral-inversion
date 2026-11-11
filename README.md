@@ -1,5 +1,4 @@
-# XRF-densitys-mineral-inversion
-# ICDP-DIVE 5071_1_B: XRF–density mineral inversion (10-sample example)
+# XRF–density mineral inversion (10-sample example)
 
 This repository provides a compact demonstration of the original MATLAB workflow for Bayesian mineral-fraction inversion of kinzigite using XRF oxide concentrations and bulk core density.
 
